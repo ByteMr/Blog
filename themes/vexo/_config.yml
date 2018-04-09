@@ -1,0 +1,58 @@
+author: Ansen # 作者
+description: Ansen's blog
+keyword: hexo-theme, java,  Android,  Ansen,  zhanghuagang
+favicon: images/logo.jpg
+
+excerpt_link: Read more
+
+menu:
+ Home: /
+ Tags: /tags/
+ Archives: /archives/
+# Projects: /project/
+ About: /about/
+
+# highlight
+highlight:
+  tomorrow
+
+# catalog
+catalog: true
+
+# donate
+donate: true
+
+# qrcode
+qrcode: true
+
+# comment
+# you can set gitment or uyan
+
+comment: gitment
+
+# gitment config
+gitment_owner: ByteMr
+gitment_repo: ByteMr.github.io
+gitment_oauth_id: 8bb5c97f1be75917b400
+gitment_oauth_secret: 29b9b9e4033326a972013b2c49d3f1bf8eaf2e54
+
+# uyan
+# if you want to use uyan as your blog comment, plz remove/comment out gitment config
+
+baidu_id: 
+
+about: 
+  banner: http://file.muyutech.com/about.jpg
+  avatar: https://avatars3.githubusercontent.com/u/38066272?s=400&u=9288d2c25699833343e81149658c1f4e4d8d6682&v=4
+  description: "分享是一种情怀，学习应永不停止。"
+  weibo_username: 5090461395
+#  twitter_username: yanm1ng
+  github_username: ByteMr
+#  zhihu_username: yummy1121
+#  douban_username: yanm1ng
+
+# MathJax Support
+mathjax:
+  enable: true
+  per_page: false
+  cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
