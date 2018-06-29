@@ -5,7 +5,7 @@
 # Site
 title: Ansen's blog
 subtitle:
-description: ·ÖÏíÊÇÒ»ÖÖÇé»³£¬Ñ§Ï°²»Ó¦Í£Ö¹¡£
+description: åˆ†äº«æ˜¯ä¸€ç§æƒ…æ€€ï¼Œå­¦ä¹ ä¸åº”åœæ­¢ã€‚
 keywords:
 author: Ansen zhang
 language:
@@ -79,5 +79,5 @@ theme: vexo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://ByteMr:hua631150873@github.com/ByteMr/ByteMr.github.io.git
+  repository: https://github user:github pwd@github.com/ByteMr/ByteMr.github.io.git
   branch: master
